@@ -1,0 +1,1 @@
+You can read my recent interview about java EE and poolingpeople on [JAVA EE THROUGH THE EYES OF PHP DEVELOPERS: INTERVIEW WITH A JAVA EE SPIN-OFF](http://www.adam-bien.com/roller/abien/entry/java_ee_through_the_eyes)
